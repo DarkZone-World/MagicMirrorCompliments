@@ -1,0 +1,35 @@
+{
+                    anytime: [
+                        "Wow, du siehst gut aus :)",
+                        "Zeig's Ihnen, Tiger! :D"
+                    ],
+                    morning: [
+                        "Hast du gut geschlafen?",
+                        "Guten Morgen, Sonnenschein!",
+                        "Dein Lächeln ist umwerfend :)",
+                        "Heute bewegst du was!"
+                    ],
+                    afternoon: [
+                        "Ein Schritt nach dem anderen!",
+                        "Was gibt's zu Mittag?",
+                        "Du gefällst mir heute!",
+                        "Nicht schlecht, Herr Specht!"
+                    ],
+                    evening: [
+                        "Na, wie war dein Tag?",
+                        "My home is my castle :)",
+                        "Willkommen daheim :D"
+                    ],
+                    day_sunny: [
+                        "Die Sonne scheint für dich!",
+                        "Es ist ein schöner Tag!",
+                        "Yiha, Sonnenschein :)"
+                    ],
+                    snow: [
+                        "Juhu, es schneit!",
+                        "Let it snow, let is snow...!"
+                    ],
+                    rain: [
+                        "Regenschirm nicht vergessen! ;)"
+                    ]
+}
