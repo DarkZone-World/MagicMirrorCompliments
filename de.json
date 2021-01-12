@@ -27,11 +27,11 @@
                     ],
                     "snow": [
                         "Juhu, es schneit!",
-
                         "Lust auf Schlitten fahren?",
                         "Let it snow, let is snow...!"
                     ],
                     "rain": [
-                        "Regenschirm nicht vergessen! ;)"
+                        "Regenschirm nicht vergessen! ;)",
+                        "Es regnet draußen!!"                      
                     ]
 }
